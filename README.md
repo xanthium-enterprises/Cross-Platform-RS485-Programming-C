@@ -1,1 +1,2 @@
-# Cross-Platform-RS485-Programming-C
+# Cross-Platform-RS485-Programming-C (Linux/Windows)
+------------------------------------------------------------------------------------------------
